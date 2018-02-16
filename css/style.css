@@ -1,10 +1,10 @@
 body
 {
 	background-color: #242424;
-	font-size: 16px;
-	font-family: Helvetica;
+	font-size: 24px;
+	font-family: Helvetica Neue;
 	font-weight: bold;
-	letter-spacing: -1px;
+	letter-spacing: -2px;
 }
 
 a
@@ -48,8 +48,8 @@ input {
 	color: #999999;
 	background-color: #242424;
 	border: none;
-	font-size: 16px;
-	letter-spacing: -1px;
-	font-family: Helvetica;
+	font-size: 24px;
+	letter-spacing: -2px;
+	font-family: Helvetica Neue;
 	text-align: center;
 }
