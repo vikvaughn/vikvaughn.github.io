@@ -3,7 +3,8 @@ body
 	background-color: #242424;
 	font-size: 32px;
 	font-family: 'Helvetica', sans-serif;
-	letter-spacing: -5px;
+	font-weight: bold;
+	letter-spacing: -2px;
 }
 
 a
@@ -48,7 +49,7 @@ input {
 	background-color: #242424;
 	border: none;
 	font-size: 32px;
-	letter-spacing: -5px;
+	letter-spacing: -2px;
 	font-family: 'Helvetica', sans-serif;
 	text-align: center;
 }
