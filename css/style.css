@@ -4,7 +4,7 @@ body
 	font-size: 24px;
 	font-family: Helvetica Neue;
 	font-weight: bold;
-	letter-spacing: -2px;
+	letter-spacing: -1px;
 }
 
 a
@@ -49,7 +49,7 @@ input {
 	background-color: #242424;
 	border: none;
 	font-size: 24px;
-	letter-spacing: -2px;
+	letter-spacing: -1px;
 	font-family: Helvetica Neue;
 	text-align: center;
 }
